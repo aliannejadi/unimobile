@@ -100,6 +100,7 @@ Below are two example rows from the dataset:
           booktitle = {Proceedings of the 41st International {ACM} {SIGIR} Conference on
                Research and Development in Information Retrieval},
           series    = {{SIGIR'18}},
+	  pages     = {215--224},
           location  = {Ann Arbor, Michigan, USA},          
           year      = {2018}
         }
@@ -111,4 +112,4 @@ Thanks also to Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani and W. Bruce C
 
 ## References
 
-[1] Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, and W. Bruce Croft. 2018. Target Apps Selection: Towards a Unified Search Framework for Mobile Devices. In Proceedings of the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval.
+[1] Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani, and W. Bruce Croft. 2018. Target Apps Selection: Towards a Unified Search Framework for Mobile Devices. In Proceedings of the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 215-224.
